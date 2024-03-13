@@ -25,6 +25,14 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Últimos proyectos
+- [UMGCollab](https://github.com/EnriqueMerlos/UMGCollab) - Plataforma colaborativa digital para la carrera de Bachiller en computación del Francisco Marroquin.
+
+### Proyectos destacados
+- [ComponentsLibrary](https://github.com/Foxy20122012/ComponentsLibrary) - Biblioteca de componentes para React.
+- [Via-Asesores-www](https://github.com/Foxy20122012/Via-Asesores-www) - Pagina Via Asesores Prototipo.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/foxy20122012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="foxy20122012" height="30" width="40" /></a>
